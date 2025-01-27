@@ -5,3 +5,5 @@ Eine der wichtigsten Zukunftstechnologien unserer Zeit sind die Tablet-Computer.
 Verantwortlich für die Usability eines Tablets ist unter anderem die verwendete **Multi-Touch-Technologie** beim iPad oder die Hybrid-Technologie beim Galaxy Note. Dank Touchscreen können nun ohne Probleme in verschiedensten Anwendungen Anmerkungen auf dem Bildschirm per Hand oder Pen gemacht werden.
 
 Nach und nach bringen nun auch, neben Apple, andere PC-Anbieter wie HP, Lenovo, Amazon und Microsoft Tablet-Geräte auf den Markt. Viele dieser Geräte punkten mit besonderen Funktionen, zum Beispiel abnehmbare Tastaturen, Pens, Voice Commands oder Gestensteuerung. Was allen jedoch gleicht ist: Es wird alles billiger, schneller und benutzerfreundlicher.
+
+Meine Änderung
